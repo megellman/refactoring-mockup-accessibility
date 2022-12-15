@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* converted header class to header element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+/* removed header class  */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* removed header class and h1 element  */
 .seo {
     color: #d9dcd6;
 }
 
+/* converted div to nav and removed header class  */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +36,12 @@ nav {
     font-size: 20px;
 }
 
+/* removed header class and div element  */
 ul {
     list-style-type: none;
 }
 
+/* removed header class and div element and ul element selectors  */
 li {
     display: inline-block;
     margin-left: 25px;
@@ -69,12 +75,14 @@ p {
     margin-left: 25px;
 }
 
+/* removed content class and used main element  */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* removed benefits class and converted selector to aside  */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -86,17 +94,20 @@ aside {
     background-color: #2589bd;
 }
 
+/* removed classes and added a descendent selector and combined .benefit-lead,.benefit-brand,.benefit-cost selectors */
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* removed classes and added a sibling combinator selector and combined .benefit-lead,.benefit-brand,.benefit-cost selectors */
 h3 ~ img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* removed classes, consolidated .search-engine-optimization, .online-reputation-management, and .social-media-marketing and used combinator selector  */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,15 +117,18 @@ main section {
     color: #ffffff;
 }
 
+/* removed classes, used element selector, and consolidated .search-engine-optimization, .online-reputation-management, and .social-media-marketing  */
 main img {
     max-height: 200px;
 }
 
+/* removed classes, used element selector, and consolidated .search-engine-optimization, .online-reputation-management, and .social-media-marketing  */
 img ~ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* removed class and used element selector  */
 footer {
     padding: 30px;
     clear: both;
@@ -122,6 +136,7 @@ footer {
     text-align: center;
 }
 
+/* removed class and used element selector  */
 footer h2 {
     font-size: 20px;
 }
