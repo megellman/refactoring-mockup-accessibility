@@ -28,12 +28,17 @@ The aside element clearly indicates that the code contained within it is a part 
 ```
  <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
  ```
-Without the alt attribute, it's impossible for the screen reader to describe what this image is. If, for some reason, the image isn't able to load, anyone visiting this site will not know what the image contained.
+Without the alt attribute, it's impossible for the screen reader to describe what this image is. As you can see below, if the image isn't able to load, without alt attributes, anyone visiting this site will not know what the image contained.
+
+![image without alt attributes](/assets/images/image-without-alt.png)
 
 ```
  <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="SEO diagram on a notebook"/>
 ```
-The alt attributes provide a clear description of the image and its purpose on the page. Additionally, if the image isn't able to load, the alt attributes appears.
+The alt attributes provide a clear description of the image and its purpose on the page. As seen below, if the image isn't able to load, the alt attribute describes what the image contains.
+
+![image with alt attributes](/assets/images/image-with-alt.png)
+
 ### Crafting a concise, descriptive title
 
 
