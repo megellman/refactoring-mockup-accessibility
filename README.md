@@ -12,6 +12,7 @@ To meet accessibility standards, I replaced non-semantic elements with semantic 
 * [Code Refactoring Examples](#code-refactoring-examples)
 * [Credits](#credits)
 * [License](#license)
+* [Author Info](#author-info)
 
 ## Code Refactoring Examples
 ### Semantic Elements
@@ -53,6 +54,10 @@ This title is clear and descriptive so people can easily understand what this we
 ```
 <title>Horiseon Landing Page</title>
 ```
+## Author Info
+### Megan Ellman
+* [LinkedIn](https://www.linkedin.com/in/megan-ellman/)
+* [Github](https://github.com/megellman)
 
 ## Credits
 |Resources Used| Link |
