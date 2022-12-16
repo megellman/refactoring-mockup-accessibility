@@ -1,8 +1,8 @@
-# Refractoring Mockup Accessibility
-![project landing page] (/assets/images/mockup-page-screenshot.png)
+# Refactoring Mockup Accessibility
+![project landing page](/assets/images/mockup-page-screenshot.png)
 
 ## Description
-This project was created to practice refractoring code to ensure that it meets accessibility standards. 
+This project was created to practice refactoring code to ensure that it meets accessibility standards. 
 
 To meet accessibility standards, I ensured that code meets the following standards:
 - use of semantic elements
