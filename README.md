@@ -8,21 +8,27 @@ To meet accessibility standards, I replaced non-semantic elements with semantic 
 
 ![Site Landing Page](https://megellman.github.io/refactoring-mockup-accessibility/)
 
-### Use of semantic elements
+## Table of Contents
+*[Code Refactoring Examples](#code-refactoring-examples)
+*[Credits](#credits)
+*[License](#license)
+
+## Code Refactoring Examples
+### Semantic Elements
 The original text here did not follow accessibility standards because the non-sematic tags make it difficult for a screen reader to understand what the purpose and importance of each div element is. 
 ![original html code](/assets/images/semantic-original.png)
 
 Converting the non-semantic elements to semantic elements makes this webpage much easier for a screen reader to read. The header element very clearly states that this section of code will reside in the header section of the webpage. The nav element indicates that the item included in this section are navigational links.
 ![modified html code](/assets/images/semantic-modified.png)
 
-### Ensuring that elements follow a logical structure
+### Logical Structure of Elements
 In this original code, it's difficult for a screen reader to understand why the div elements are nested within each other and how each div element relates to one another. 
 ![original html code](/assets/images/logical-structure-original.png)
 
 The aside element clearly indicates that the code contained within it is a part of a sidebar. Additionally, the footer elements shows that this code is located at the bottom of the page. 
 ![modified html code](/assets/images/logical-structure-modified.png)
 
-### Applying alt attributes to images
+### Alt Attributes
 Without the alt attribute, it's impossible for the screen reader to describe what this image is. 
 ```
  <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
@@ -37,7 +43,7 @@ The alt attributes provide a clear description of the image and its purpose on t
  As seen below, if the image isn't able to load, the alt attribute describes what the image contains.
 ![image with alt attributes](/assets/images/image-with-alt.png)
 
-### Crafting a concise, descriptive title
+### Descriptive Title
 The original title is generic and does not describe what this page is about.
 ```
 <title>website</title>
