@@ -48,15 +48,12 @@ This title is clear and descriptive so people can easily understand what this we
 <title>Horiseon Landing Page</title>
 ```
 
-## Resources
-|Resource Type| Link |
+## Credits
+|Resources Used| Link |
 |:------|:-----|
 |Accessibility| https://blog.hubspot.com/website/html-accessibility|
 |Semantic Elements|https://www.w3schools.com/html/html5_semantic_elements.asp|
 |Test|https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax|
-
-## Credits
-Link to deployed project: https://megellman.github.io/refactoring-mockup-accessibility/
 
 ## License
 MIT License
