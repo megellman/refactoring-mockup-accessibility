@@ -26,6 +26,8 @@ The aside element clearly indicates that the code contained within it is a part 
 
 ### Applying alt attributes to images
 
+
+
 ### Crafting a concise, descriptive title
 
 
