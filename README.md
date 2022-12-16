@@ -9,9 +9,9 @@ To meet accessibility standards, I replaced non-semantic elements with semantic 
 ![Site Landing Page](https://megellman.github.io/refactoring-mockup-accessibility/)
 
 ## Table of Contents
-*[Code Refactoring Examples](#code-refactoring-examples)
-*[Credits](#credits)
-*[License](#license)
+[Code Refactoring Examples](#code-refactoring-examples)
+[Credits](#credits)
+[License](#license)
 
 ## Code Refactoring Examples
 ### Semantic Elements
