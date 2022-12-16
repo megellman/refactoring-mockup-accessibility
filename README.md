@@ -5,20 +5,23 @@
 This project was created to practice refactoring code to ensure that it meets accessibility standards. 
 
 To meet accessibility standards, I ensured that code meets the following standards:
-- use of semantic elements
-- ensuring that elements follow a logical structure
-- applying alt attributes to images
-- crafting a consice, descriptive title
+- Use of semantic elements
+- Ensuring that elements follow a logical structure
+- Applying alt attributes to images
+- Crafting a concise, descriptive title
 
-## Table of Contents
 
-## Usage
 
 ## Resources
-
+|Resource Type| Link |
+|:------|:-----|
+|Accessibility| https://blog.hubspot.com/website/html-accessibility|
+|Semantic Elements|https://www.w3schools.com/html/html5_semantic_elements.asp|
+|Test|https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax|
 
 ## Credits
 Link to deployed project: https://megellman.github.io/refactoring-mockup-accessibility/
+
 ## License
 MIT License
 
