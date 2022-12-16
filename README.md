@@ -1,6 +1,14 @@
 # Refractoring Mockup Accessibility
+![project landing page] (assets/images/mockup-page-screenshot.png)
 
 ## Description
+This project was created to practice refractoring code to ensure that it meets accessibility standards. 
+
+To meet accessibility standards, I ensured that code meets the following standards:
+- use of semantic elements
+- ensuring that elements follow a logical structure
+- applying alt attributes to images
+- crafting a consice, descriptive title
 
 ## Table of Contents
 
