@@ -13,7 +13,7 @@ The original text here did not follow accessibility standards because the non-se
 
 ![modified html text](/assets/images/semantic-modified.png)
 
-The header element very clearly states that this section of code will reside in the header section of the webpage. The nav element indicates that the item included in this section are navigational links.
+Converting the non-semantic elements to semantic elements makes this webpage much easier for a screen reader to read. The header element very clearly states that this section of code will reside in the header section of the webpage. The nav element indicates that the item included in this section are navigational links.
 
 ### Ensuring that elements follow a logical structure
 
