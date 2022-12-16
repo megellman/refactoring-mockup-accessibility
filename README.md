@@ -25,8 +25,13 @@ In this original code, it's difficult for a screen reader to understand why the 
 The aside element clearly indicates that the code contained within it is a part of a sidebar. Additionally, the footer elements shows that this code is located at the bottom of the page. 
 
 ### Applying alt attributes to images
+```
+ <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
+ ```
 
-
+```
+ <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="SEO diagram on a notebook"/>
+```
 
 ### Crafting a concise, descriptive title
 
