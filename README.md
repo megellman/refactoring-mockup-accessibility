@@ -18,7 +18,12 @@ Converting the non-semantic elements to semantic elements makes this webpage muc
 ### Ensuring that elements follow a logical structure
 ![original html code](/assets/images/logical-structure-original.png)
 
+In this original code, it's difficult for a screen reader to understand why the div elements are nested within each other and how each div element relates to one another. 
+
 ![modified html code](/assets/images/logical-structure-modified.png)
+
+The aside element clearly indicates that the code contained within it is a part of a sidebar. Additionally, the footer elements shows that this code is located at the bottom of the page. 
+
 ### Applying alt attributes to images
 
 ### Crafting a concise, descriptive title
