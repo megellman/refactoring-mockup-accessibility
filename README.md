@@ -6,7 +6,7 @@ This project was created to practice refactoring code to ensure that it meets ac
 
 To meet accessibility standards, I replaced non-semantic elements with semantic elements, made sure the elements followed a logical structure, applied alt attributes to images, and crafted a concise, clear title.
 
-
+![Site Landing Page](https://megellman.github.io/refactoring-mockup-accessibility/)
 
 ### Use of semantic elements
 The original text here did not follow accessibility standards because the non-sematic tags make it difficult for a screen reader to understand what the purpose and importance of each div element is. 
