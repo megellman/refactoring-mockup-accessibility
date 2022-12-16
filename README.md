@@ -20,6 +20,7 @@ The original text here did not follow accessibility standards because the non-se
 ![original html code](/assets/images/semantic-original.png)
 
 Converting the non-semantic elements to semantic elements makes this webpage much easier for a screen reader to read. The header element very clearly states that this section of code will reside in the header section of the webpage. The nav element indicates that the item included in this section are navigational links.
+
 ![modified html code](/assets/images/semantic-modified.png)
 
 ### Logical Structure of Elements
