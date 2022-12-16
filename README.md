@@ -8,8 +8,11 @@ To meet accessibility standards, I ensured that code meets the following standar
 
 ### Use of semantic elements
 ![original html text](/assets/images/semantic-original.png)
+
 The original text here did not follow accessibility standards because the non-sematic tags make it difficult for a screen reader to understand what the purpose and importance of each div element is. 
-![modified html text](/assets/images/semantic-changes.png)
+
+![modified html text](/assets/images/semantic-modified.png)
+
 The header element very clearly states that this section of code will reside in the header section of the webpage. The nav element indicates that the item included in this section are navigational links.
 
 ### Ensuring that elements follow a logical structure
