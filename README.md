@@ -7,16 +7,18 @@ This project was created to practice refactoring code to ensure that it meets ac
 To meet accessibility standards, I ensured that code meets the following standards:
 
 ### Use of semantic elements
-![original html text](/assets/images/semantic-original.png)
+![original html code](/assets/images/semantic-original.png)
 
 The original text here did not follow accessibility standards because the non-sematic tags make it difficult for a screen reader to understand what the purpose and importance of each div element is. 
 
-![modified html text](/assets/images/semantic-modified.png)
+![modified html code](/assets/images/semantic-modified.png)
 
 Converting the non-semantic elements to semantic elements makes this webpage much easier for a screen reader to read. The header element very clearly states that this section of code will reside in the header section of the webpage. The nav element indicates that the item included in this section are navigational links.
 
 ### Ensuring that elements follow a logical structure
+![original html code](/assets/images/logical-structure-original.png)
 
+![modified html code](/assets/images/logical-structure-modified.png)
 ### Applying alt attributes to images
 
 ### Crafting a concise, descriptive title
