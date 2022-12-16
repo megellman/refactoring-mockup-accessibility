@@ -11,8 +11,8 @@ To meet accessibility standards, I replaced non-semantic elements with semantic 
 ## Table of Contents
 * [Code Refactoring Examples](#code-refactoring-examples)
 * [Credits](#credits)
-* [License](#license)
 * [Author Info](#author-info)
+* [License](#license)
 
 ## Code Refactoring Examples
 ### Semantic Elements
