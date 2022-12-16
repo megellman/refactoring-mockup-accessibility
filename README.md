@@ -1,5 +1,5 @@
 # Refractoring Mockup Accessibility
-![project landing page] (assets/images/mockup-page-screenshot.png)
+![project landing page] (/assets/images/mockup-page-screenshot.png)
 
 ## Description
 This project was created to practice refractoring code to ensure that it meets accessibility standards. 
